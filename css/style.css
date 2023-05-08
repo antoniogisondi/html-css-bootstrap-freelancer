@@ -4,6 +4,14 @@
     box-sizing: border-box;
 }
 
+h6{
+    color: white;
+}
+
+i{
+    color: white;
+}
+
 .background-blue{
     background-color: rgba(44,62,80,255);
 }
@@ -19,3 +27,33 @@
 .background-brightblue{
     background-color: rgba(58,84,109,255);
 }
+
+.background-white{
+    background-color: white;
+}
+
+.background-beige{
+    background-color: rgba(186,75,99,255);
+}
+
+.background-lightblue{
+    background-color: rgba(30,164,182,255);
+}
+
+.background-black{
+    background-color: rgba(20,15,15,255);
+    color: white;
+}
+
+.background-mediumblue{
+    background-color: rgba(28,131,193,255);
+}
+
+.background-darkblue{
+    background-color: rgba(14,56,181,255);
+}
+
+.background-grey{
+    background-color: rgba(204,178,163,255);
+}
+
