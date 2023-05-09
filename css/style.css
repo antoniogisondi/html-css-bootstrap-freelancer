@@ -53,20 +53,16 @@ i{
     background-color: rgba(204,178,163,255);
 }
 
-.contain{
-    height: 300px;
-}
-
 .image{
     height: 500px;
 }
 
 .title{
-    height: 200px;
+    height: 100px;
 }
 
 .text{
-    height: 100px;
+    height: 200px;
 }
 
 .form{
