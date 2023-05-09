@@ -4,11 +4,7 @@
     box-sizing: border-box;
 }
 
-h6{
-    color: white;
-}
-
-i{
+h1, h6, h5, i, .footer span, .contain-about h3, .contain p{
     color: white;
 }
 
@@ -24,61 +20,57 @@ i{
     background-color: rgba(58,84,109,255);
 }
 
-.background-white{
-    background-color: white;
-}
-
-.background-beige{
-    background-color: rgba(186,75,99,255);
-}
-
-.background-lightblue{
-    background-color: rgba(30,164,182,255);
-}
-
-.background-black{
-    background-color: rgba(20,15,15,255);
-    color: white;
-}
-
-.background-mediumblue{
-    background-color: rgba(28,131,193,255);
-}
-
-.background-darkblue{
-    background-color: rgba(14,56,181,255);
-}
-
-.background-grey{
-    background-color: rgba(204,178,163,255);
-}
-
-.image{
-    height: 500px;
-}
-
-.title{
-    height: 100px;
-}
-
-.text{
-    height: 200px;
-}
-
-.form{
-    height: 300px;
-}
-
-.button{
-    height: 100px;
-}
-
 .contain-jumbo img{
     width: 30%;
+}
+
+.contact, .contain-jumbo, .contain-portfolio, .contain-about span i{
+    font-size: 25px;
+}
+
+.contain-portfolio span i{
+    color: rgba(44,62,80,255);
+}
+
+.contact span i{
+    color: rgba(44,62,80,255);
 }
 
 .contain img{
     width: 100%;
     height: 100%;
     border-radius: 10px;
+}
+
+.contain button{
+    border: 1px solid white;
+    background-color: transparent;
+    padding: 5px 10px;
+    color: white;
+    border-radius: 5px ;
+}
+
+.icons span{
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+#icon-1{
+    padding: 8px 13px;
+}
+
+#icon-2{
+    padding: 8px;
+}
+
+#icon-3{
+    padding: 8px 10px;
+}
+
+#icon-4{
+    padding: 8px 12px;
+}
+
+.border{
+    border: none;
 }
