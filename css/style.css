@@ -57,3 +57,26 @@ i{
     background-color: rgba(204,178,163,255);
 }
 
+.contain{
+    height: 300px;
+}
+
+.image{
+    height: 500px;
+}
+
+.title{
+    height: 200px;
+}
+
+.text{
+    height: 100px;
+}
+
+.form{
+    height: 300px;
+}
+
+.button{
+    height: 100px;
+}
