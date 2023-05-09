@@ -38,7 +38,6 @@ h1, h6, h5, i, .footer span, .contain-about h3, .contain p{
 
 .contain img{
     width: 100%;
-    height: 100%;
     border-radius: 10px;
 }
 
@@ -72,5 +71,11 @@ h1, h6, h5, i, .footer span, .contain-about h3, .contain p{
 }
 
 .border{
-    border: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+.contain p a{
+    text-decoration: none;
 }
