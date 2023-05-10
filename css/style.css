@@ -21,7 +21,7 @@ h1, h6, h5, i, .footer span, .contain-about h3, .contain p{
 }
 
 .contain-jumbo img{
-    width: 30%;
+    width: 20%;
 }
 
 .contact, .contain-jumbo, .contain-portfolio, .contain-about span i{
@@ -81,7 +81,7 @@ h1, h6, h5, i, .footer span, .contain-about h3, .contain p{
 }
 
 .line{
-    width: 80px;
+    width: 90px;
     height: 4px;
     display: inline-flex;
     margin-bottom: 5px;
