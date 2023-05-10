@@ -79,3 +79,23 @@ h1, h6, h5, i, .footer span, .contain-about h3, .contain p{
 .contain p a{
     text-decoration: none;
 }
+
+.line{
+    width: 80px;
+    height: 4px;
+    display: inline-flex;
+    margin-bottom: 5px;
+    border-radius: 10px;
+}
+
+.white{
+    background-color: white;
+}
+
+.blue{
+    background-color: rgba(44,62,80,255);
+}
+
+.navbar-toggler-icon{
+    filter: invert(1);
+}
